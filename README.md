@@ -10,13 +10,6 @@ I enjoy building scalable web applications and solving complex problems using **
 
 ---
 
-# 🎥 Project Demo
-
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> Click the thumbnail above to watch the demo of my project.
-
----
 
 # 🚀 What I'm Working On
 
