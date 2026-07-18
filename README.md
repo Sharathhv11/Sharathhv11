@@ -2,11 +2,11 @@
 
 **Computer Science Engineering Student | Machine Learning & Data Science Enthusiast | Full-Stack Developer**
 
-I’m a Computer Science Engineering student passionate about building intelligent applications and software solutions. As a fresher, I enjoy combining software engineering principles with data-driven intelligence to solve real-world problems.
+I'm a Computer Science Engineering student passionate about building intelligent applications and software solutions. As a fresher, I enjoy combining software engineering principles with data-driven insights to create meaningful projects.
 
-My primary interests lie in **Machine Learning**, **Data Science**, and **Artificial Intelligence**, where I explore neural networks, predictive modeling, and data analysis using **Python**. Alongside AI, I have a strong foundation in **Full-Stack Web Development**, building modern, scalable applications with the **MERN Stack**.
+My primary interests lie in **Machine Learning**, **Data Science**, and **Artificial Intelligence**, where I explore neural networks, predictive modeling, and data analysis using **Python**. Alongside these, I'm also passionate about **Full-Stack Development** using the MERN stack and building scalable backend systems.
 
-I believe in continuous learning, experimenting with new technologies, and turning ideas into impactful projects. I am currently seeking **internship** and **entry-level opportunities** where I can contribute, collaborate, and grow as a software engineer.
+I believe in continuous learning, experimenting with new technologies, and turning ideas into impactful projects. I am currently seeking **internship** and **entry-level opportunities** where I can contribute and grow as a developer.
 
 ---
 
@@ -83,15 +83,15 @@ I believe in continuous learning, experimenting with new technologies, and turni
 
 # GitHub Stats
 
-![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharathhv11&show_icons=true&theme=tokyonight)
+[![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharathhv11&show_icons=true&theme=tokyonight)](https://github.com/sharathhv11)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathhv11&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathhv11&layout=compact&theme=tokyonight)](https://github.com/sharathhv11)
 
 ---
 
 # Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sharathhv11&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sharathhv11&theme=tokyonight)](https://github.com/sharathhv11)
 
 ---
 
