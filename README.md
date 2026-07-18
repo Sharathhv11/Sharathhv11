@@ -1,23 +1,30 @@
-# Hi, I'm Sharath HV
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=80" alt="AI and Full-Stack Development Banner" width="100%" />
+</p>
 
-**Computer Science Engineering Student | Machine Learning & Data Science Enthusiast | Full-Stack Developer**
+<h1 align="center">Hi, I'm Sharath HV 👋</h1>
 
-I'm a Computer Science Engineering student passionate about building intelligent applications and software solutions. As a fresher, I enjoy combining software engineering principles with data-driven insights to create meaningful projects.
+<p align="center">
+  <strong>Computer Science Engineering Student</strong> •
+  <strong>Machine Learning & Data Science Enthusiast</strong> •
+  <strong>Full-Stack Developer</strong>
+</p>
 
-My primary interests lie in **Machine Learning**, **Data Science**, and **Artificial Intelligence**, where I explore neural networks, predictive modeling, and data analysis using **Python**. Alongside these, I'm also passionate about **Full-Stack Development** using the MERN stack and building scalable backend systems.
-
-I believe in continuous learning, experimenting with new technologies, and turning ideas into impactful projects. I am currently seeking **internship** and **entry-level opportunities** where I can contribute and grow as a developer.
+<p align="center">
+  I'm passionate about building intelligent applications and scalable software solutions by combining
+  software engineering with data-driven thinking.
+</p>
 
 ---
 
 ## About Me
 
-- Computer Science Engineering Student
-- Passionate about Machine Learning & Data Science
-- Building intelligent applications with Python
-- Developing scalable full-stack applications using the MERN Stack
-- Strong interest in AI, backend engineering, and software architecture
-- Always learning, experimenting, and solving challenging problems
+- 🎓 Computer Science Engineering Student
+- 🤖 Passionate about Machine Learning, Data Science, and Artificial Intelligence
+- 🐍 Building intelligent applications with Python
+- 🌐 Developing scalable full-stack applications using the MERN stack
+- 🧠 Strong interest in AI, backend engineering, and software architecture
+- 🚀 Always learning, experimenting, and solving challenging problems
 
 ---
 
@@ -33,71 +40,68 @@ I believe in continuous learning, experimenting with new technologies, and turni
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SharathHV-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SharathHV)
+<p align="left">
+  <a href="https://linkedin.com/in/SharathHV" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-SharathHV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Machine Learning & Data Science
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
-[![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharathhv11&show_icons=true&theme=tokyonight)](https://github.com/sharathhv11)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharathhv11&show_icons=true&theme=tokyonight" alt="Sharath's GitHub stats" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathhv11&layout=compact&theme=tokyonight)](https://github.com/sharathhv11)
-
----
-
-# Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sharathhv11&theme=tokyonight)](https://github.com/sharathhv11)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathhv11&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-# Profile Views
+## Contribution Streak
 
-[![](https://visitcount.itsvg.in/api?id=sharathhv11&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sharathhv11&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sharathhv11&icon=0&color=0" alt="Profile Views" />
+</p>
 
 ---
 
