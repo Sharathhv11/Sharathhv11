@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=80" alt="AI and Full-Stack Development Banner" width="80%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Sharath HV 👋</h1>
 
