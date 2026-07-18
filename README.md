@@ -58,13 +58,7 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharathhv11&show_icons=true&theme=tokyonight" alt="Sharath's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathhv11&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharathhv11&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
